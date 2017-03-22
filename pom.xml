@@ -118,13 +118,13 @@
    
  <snapshotRepository>
     <id>snapshots</id>
-	<name>SNAPSHOT</name>
-    <url>http://34.208.31.134:8081/#browse/browse/components:maven-snapshots/</url>
+	<name>snapshots</name>
+    <url>http://34.208.31.134:8081/repository/maven-snapshots/</url>
  </snapshotRepository>
  <repository>
 	<id>releases</id>
-	<name>Internal Releases</name>
-    <url>http://34.208.31.134:8081/#browse/browse/components:maven-releases/</url>
+	<name>releases</name>
+    <url>http://34.208.31.134:8081/repository/maven-releases/</url>
  </repository>
 </distributionManagement>
 
