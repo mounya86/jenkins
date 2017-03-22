@@ -117,12 +117,12 @@
 	<distributionManagement>
    
  <snapshotRepository>
-    <id>nexus-snapshots</id>
+    <id>snapshots</id>
 	<name>SNAPSHOT</name>
     <url>http://34.208.31.134:8081/#browse/browse/components:maven-snapshots/</url>
  </snapshotRepository>
  <repository>
-	<id>nexus-release</id>
+	<id>releases</id>
 	<name>Internal Releases</name>
     <url>http://34.208.31.134:8081/#browse/browse/components:maven-releases/</url>
  </repository>
